@@ -8,3 +8,4 @@ HOW TO USE
 4. upload it to the tool
 
 (used AI) (Open AI)
+ meant for projects like georgecraft and other things where you need audio files transferable in smaller sizes.
